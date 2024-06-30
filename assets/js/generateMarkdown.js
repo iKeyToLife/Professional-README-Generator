@@ -3,6 +3,8 @@
 function renderLicenseBadge(license) {
   if (!license || license === 'None') {
     return '';
+  } else if (`Apache-2.0`) {
+    license = `Apache_2.0`
   }
   return `\n![License: ${license}](https://img.shields.io/badge/License-${license}-blue.svg)\n`;
 }

@@ -75,4 +75,4 @@ Follow the prompts provided by the Inquirer package to input the necessary infor
 [Professional README Generator Repository](https://github.com/iKeyToLife/Professional-README-Generator/)
 
 ## Video Application
-[Professional README Generator video]()
+[Professional README Generator video](https://app.screencastify.com/v3/watch/jcH71uZzBi5AR0S8zQHK)
